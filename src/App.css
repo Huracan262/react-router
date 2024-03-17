@@ -1,0 +1,28 @@
+body {
+  color: white;
+
+  background-color: darkslategrey;
+}
+
+a {
+  color: slategrey;
+}
+
+nav {
+  margin-bottom: 30px;
+  display: flex;
+  gap: 10px;
+
+  background-color: darkslateblue;
+}
+
+.activeLink {
+  color: tomato;
+}
+
+.courses-link {
+  display: inline-block;
+  margin: 10px 100px;
+  color: white;
+  text-decoration: none;
+}
